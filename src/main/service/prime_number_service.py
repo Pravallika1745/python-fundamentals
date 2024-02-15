@@ -12,6 +12,7 @@ class PrimeNumberService:
             print("The given is not a prime number")
 
 
+
 if __name__ == "__main__":
     number = 4
     prime_number_service = PrimeNumberService()
